@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeLectic
 - 🙏 My name is Akshar Patidar 
 - 👀 I’m interested in Deep-Learning algorrithms, RNN CNN 
-- 🌱 I’m currently learning about the Attention mechanism ,  Transformers 
+- 🌱 I’m currently learning about the Attention mechanism ,  Transformers and Reinforcement Learning.
  
 
 <!---
